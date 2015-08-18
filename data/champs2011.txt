@@ -51,7 +51,7 @@ Round: Preliminaries
  13 Mingoes, Carlos           19 Jamaica College        6.22m      6.68mq  3.3
  14 Lewis, Jason              17 Wolmers' Boys          6.72m      6.60m   3.9
  15 Thomas, Orneldo           19 Old Harbour High       6.91m      6.58m   0.8
- 16 Richards, Leerone         18 St. Jago High         6.74m      6.57m   0.5
+ 16 Richards, Leerone         18 St. Jago High          6.74m      6.57m   0.5
  17 Reid, Troy                19 Mannings High          6.77m      6.43m   2.8
  18 Passley, James            17 Happy Grove High       6.46m      6.33m  -0.9
  19 Edie, Sedekie             17 Calabar High           6.47m      6.27m   NWI
@@ -65,7 +65,7 @@ Round: Preliminaries
  27 Bailey, Bertance          17 Tacius Golding         6.15m      5.82m   1.8
  28 Ramsay, Teran             17 Bog Walk               6.48m      5.77m  -0.4
  29 Bennett, Davian           18 Manchester High        6.43m      4.69m   0.8
- -- O'Connor, Leevaughn       18 St. Jago High         6.49m       FOUL   NWI
+ -- O'Connor, Leevaughn       18 St. Jago High          6.49m       FOUL   NWI
  -- Henry, Rushane            18 St. Elizabeth TE       6.16m        DNS   NWI
  
  Event 68  Girls 13-15 High Jump CLASS 3
@@ -527,6 +527,7 @@ Preliminaries
  Meet Record: R 13.52m  03/28/2007  KIMBERLY WILLIAMS, VERE TECHNICAL                
     Name                     Age Team                    Seed     Finals  Wind Points
   =====================================================================================
+  Finals
   1 Allen, Sabina             16 Vere Technical        11.56m     12.63m   4.5   9   
      11.74m(4.2) 11.62m(7.2) 12.43m(3.5) 12.27m(1.3) FOUL      12.63m(4.5)           
   2 McGhee, Avril             19 St. Jago High        11.68m     12.58m   4.9   7   
@@ -808,59 +809,6 @@ Event 50  Girls 17-19 Discus Throw CLASS 1
  Meet Record: R 46.76m  03/24/2010  CANDICEA BERNARD, ST. HUGH'S HIGH           
     Name                     Age Team                    Seed     Finals  Points
 ================================================================================
-Flight  1                                                                       
-  6 Marston, Sasha-Gay        18 Edwin Allen High      47.33m     36.07m        
-      36.07m  ND  35.34m                                                        
-  7 Scarlett, Debisha         18 Maud McLEOD           36.78m     34.83m        
-      34.83m  33.34m  34.83m                                                    
-  8 Reid, Shantal             19 Titchfield High       38.95m     31.65m        
-      27.95m  28.05m  31.65m                                                    
-  9 Walsh, Ladonnia           18 St. Andrew High       36.00m     27.00m        
-      ND  25.06m  27.00m                                                        
- -- Brown, Kavel              18 Buff Bay High         34.73m        DNS        
-Flight  2                                                                       
-  1 Thomas, Danniel           18 Edwin Allen High      42.31m     44.29m    9   
-      37.41m  ND  ND  ND  30.21m  44.29m                                        
-  2 Hall, Samantha            18 St. Jago High        43.00m     38.28m    3   
-      4.41m  37.57m  38.28m  36.49m  ND  35.99m                                 
-  3 Roache, Serita            19 St. Hugh's High       36.61m     38.25m    2   
-      38.25m  ND  35.49m  34.14m  35.69m  34.23m                                
-  4 Canegan, Serena           19 Vere Technical        40.08m     38.12m    1   
-      28.04m  36.65m  37.42m  32.80m  36.07m  38.12m                            
-  5 Jones, Syriece            18 Titchfield High       37.27m     31.46m        
-      25.22m  ND  31.46m                                                        
-  6 Myers, Shanique           19 Oberlin High          32.89m     29.99m        
-      15.75m  ND  29.99m                                                        
-  7 Walker, Veleisha          19 Immaculate Conce      28.58m     28.48m        
-      26.63m  28.48m  27.29m                                                    
-  8 Stevens, Kimberly         19 Holmwood Technical    31.79m     24.99m        
-      ND  ND  24.99m                                                            
-  9 Colguhoun, Jenese         18 Herbert Morrison      31.51m     24.41m        
-      ND  24.41m  ND                                                            
- 10 Brown, Veneshia           18 Mannings High         28.87m     21.72m        
-      21.72m  ND  ND                                                            
- -- Robinson, Hughlissa       18 Yallahs High          31.80m        DNS        
-================================================================================
- Sponsor: JAMAICA TEACHERS CO-OP CREDIT UNION                                   
- Meet Record: R 46.76m  03/24/2010  CANDICEA BERNARD, ST. HUGH'S HIGH           
-    Name                     Age Team                    Seed     Finals  Points
-================================================================================
-Flight  1                                                                       
-  1 Brown, Devene             18 St. Hugh's High       41.93m     42.82m    7   
-      40.73m  ND  41.09m  40.65m  42.82m  39.77m                                
-  2 Gonzales, Fayon           18 St. Jago High        46.00m     42.51m    6   
-      0.06m  ND  42.51m  40.05m  40.70m  ND                                     
-  3 Decardova, Dana           19 Manchester High       41.10m     40.25m    5   
-      ND  39.87m  37.38m  37.97m  40.25m  35.26m                                
-  4 Frater, Tamika            18 Vere Technical        40.58m     39.24m    4   
-      36.86m  38.48m  ND  39.24m  ND  ND                                        
-  5 Walker, Kerry-Ann         19 Holmwood Technical    40.79m     36.91m        
-      ND  36.91m  ND                                                            
-================================================================================
- Sponsor: JAMAICA TEACHERS CO-OP CREDIT UNION                                   
- Meet Record: R 46.76m  03/24/2010  CANDICEA BERNARD, ST. HUGH'S HIGH           
-    Name                     Age Team                    Seed     Finals  Points
-================================================================================
 Finals                                                                          
   1 Thomas, Danniel           18 Edwin Allen High      42.31m     44.29m    9   
       37.41m  ND  ND  ND  30.21m  44.29m                                        
@@ -869,13 +817,7 @@ Finals
   3 Gonzales, Fayon           18 St. Jago High        46.00m     42.51m    6   
       0.06m  ND  42.51m  40.05m  40.70m  ND                                     
   4 Decardova, Dana           19 Manchester High       41.10m     40.25m    5   
-      ND  39.87m  37.38m  37.97m  40.25m  35.26m                                
-================================================================================
- Sponsor: JAMAICA TEACHERS CO-OP CREDIT UNION                                   
- Meet Record: R 46.76m  03/24/2010  CANDICEA BERNARD, ST. HUGH'S HIGH           
-    Name                     Age Team                    Seed     Finals  Points
-================================================================================
-Finals                                                                          
+      ND  39.87m  37.38m  37.97m  40.25m  35.26m
   5 Frater, Tamika            18 Vere Technical        40.58m     39.24m    4   
       36.86m  38.48m  ND  39.24m  ND  ND                                        
   6 Hall, Samantha            18 St. Jago High        43.00m     38.28m    3   
@@ -4076,68 +4018,7 @@ Heat  7 Preliminaries   Wind: -3.6
   5 Allen, Shanae             15 Hopewell High          13.44      13.39          
   6 McLaughlin, Sapphire      15 Ardenne High           13.53      13.70          
   7 Whyte, Teneka             15 Maud McLEOD            12.89      13.90          
- -- Ewan, Tasheena            15 Central High           12.95        DNS          
-==============================================================================    
- Sponsor: JAMAICA TEACHERS CO-OP CREDIT UNION                                     
- Meet Record: R 11.65  1999        LISA SHARPE, EDWIN ALLEN                       
-    Name                     Age Team                    Seed    Prelims  Wind    
-==============================================================================    
-Preliminaries                                                                     
-  1 Thompson, Yanique         15 Holmwood Technical     11.50      12.22Q -4.0    
-  2 Lewis, Shanice            15 Edwin Allen High       11.74      12.31Q -4.5    
-  3 Williams, Peta-Gay        15 Camperdown High        11.74      12.43Q -1.4    
-  4 Stephen, Ashley           15 Glenmuir High          12.00      12.53Q -3.5    
-  5 Helps, Shawna             14 Wolmers Girls          11.68      12.63Q -6.6    
-  6 Smith, Janielle           15 Wolmers Girls          11.63      12.82Q -5.9    
-  7 Cameron, Saqukine         15 Edwin Allen High       11.80      12.82Q -3.6    
-  8 Smith, Renee              15 Convent OF Mercy       12.81      12.58Q -4.0    
-  9 Hanson, Areka             15 Manchester High        12.47      12.69Q -4.5    
- 10 Brown, Janeal             15 Manchester High        12.05      12.71Q -1.4    
- 11 Johnson, Diana            15 Holmwood Technical     11.76      12.83Q -3.5    
- 12 Robert, Chante            14 Vere Technical         12.70      12.94Q -3.6    
- 13 Silvera, Juel             15 Herbert Morrison       12.28      12.96Q -6.6    
- 14 Elliot, Shurane           14 Old Harbour High       12.74      13.25Q -5.9    
- 15 Tracey, Sasha-Kaye        14 Herbert Morrison       12.54      12.86q -1.4    
- 16 Gordon, Georgiana         15 St. Jago High         12.31      12.90q -4.0    
- 17 Jackson, Regena           15 Immaculate Conce       11.81      12.96q -3.6    
- 17 Blake, Erica              14 St. Catherine High     13.07      12.96q -4.5    
- 19 Whyte, Natallia           14 St. Jago High         12.11      13.00q -4.5    
- 20 Nembhard, Sara-Kay        14 St. Andrew High        12.85      13.00q -1.4    
- 21 Williams, Onica           15 St. Elizabeth TE       12.57      13.02q -3.6    
- 22 Palmer, Makayda           14 Convent OF Mercy       12.83      13.04q -4.5    
- 23 Salkey, Michaela          14 Immaculate Conce       13.23      13.08q -4.0    
- 24 Newby, Shantae            15 The Queen's School     12.70      13.13q -1.4 123
- 25 Wint, Ranique             15 Holy Childhood         12.97      13.13  -1.4 125
- 26 Carey, Sandrean           15 William Knibb High     13.24      13.15  -4.0    
- 27 Whyne, Britania           14 St. Elizabeth TE       12.55      13.26  -3.5    
- 28 Henry, Shannakay          15 Excelsior High         12.34      13.27  -4.0    
- 29 Williams, Ashley          14 Muschett High          12.45      13.28  -5.9    
- 30 Gordon, Tasheka           14 Excelsior High         12.97      13.28  -3.5    
- 31 Crawford, Trishawna       14 Seaforth High          12.87      13.29  -3.5    
- 32 Walker, Natasha           15 Bog Walk               12.71      13.33  -4.5    
- 33 Wright, Shacquera         15 Jonathan Grant High    12.77      13.38  -4.0    
- 34 Allen, Shanae             15 Hopewell High          13.44      13.39  -3.6    
- 35 Hibbert, Shannell         14 Camperdown High        12.29      13.43  -5.9    
- 36 Campbell, Ashli           15 Bog Walk               12.45      13.44  -6.6    
- 37 Freckleton, Chantel       15 Dinthill               13.57      13.53  -3.5    
- 38 Jackson, Jhevel           15 Jonathan Grant High    13.21      13.54  -5.9    
- 39 McDonald, Samara          15 Guy's Hill High        13.29      13.55  -4.5    
- 40 Baxter, Gizelle           15 Holy Trinity High      13.15      13.56  -6.6    
- 41 Gardner, Marlene          14 Godfrey Stewart        13.34      13.59  -1.4    
- 42 Jackson, Shanice          15 Holy Childhood         12.73      13.63  -6.6    
- 43 Campbell, Abigail         15 Papine High School     13.57      13.63  -1.4    
- 44 Johnson, Shanice          15 St. Andrew High        12.82      13.64  -5.9    
- 45 Farr, Kedesha             15 Vauxhall High          13.63      13.65  -4.5    
- 46 McLaughlin, Sapphire      15 Ardenne High           13.53      13.70  -3.6    
- 47 Barham, Annastacia        14 DeCARTERET College     12.83      13.71  -6.6    
- 48 Thomas, Chriss-Ann        15 St. Catherine High     13.16      13.72  -5.9    
- 49 Dunkley, Sanda            15 Hampton School         13.36      13.77  -3.5    
- 50 Thomas, Shantel           14 Titchfield High        12.70      13.77  -3.5    
- 51 Whyte, Teneka             15 Maud McLEOD            12.89      13.90  -3.6    
- 52 Rankine, Martina          14 Knockalva Technical    13.69      13.99  -6.6    
- 53 Campbell, Tashel          15 Bridgeport             13.25      14.20  -6.6    
- 54 Neville, Pihana           15 Fair Prospect High     13.75      14.23  -5.9    
- -- Ewan, Tasheena            15 Central High           12.95        DNS  -3.6    
+ -- Ewan, Tasheena            15 Central High           12.95        DNS
  
  Event 23  Boys 10-14 100 Meter Dash CLASS 3 BOYS
 =========================================================================     
@@ -4211,72 +4092,7 @@ Heat  8 Preliminaries   Wind: -4.2
   5 Thomas, Delano            13 Vauxhall High          12.91      12.59      
   6 Cunningham, Jovel         14 Maud McLEOD            11.93      12.67      
   7 Chambers, Kevoyne         13 Mona High School       12.94      13.14      
- -- Francis, Leroy            13 St. Elizabeth TE       11.91        DNS      
-==============================================================================
- Sponsor: SHERWIN WILLIAMS                                                    
- Meet Record: R 10.90  03/26/2010  KEVAUGHN RATTRAY, ST. JAGO HIGH            
-    Name                     Age Team                    Seed    Prelims  Wind
-==============================================================================
-Preliminaries                                                                 
-  1 Ohara, Michael            14 Calabar High           11.43      11.73Q -4.0
-  2 Saunderson, Rashaad       14 Kingston College       11.52      11.74Q -3.0
-  3 Williams, Waseem          14 Jamaica College        11.55      11.78Q -4.2
-  4 Chambers, Raheem          13 St. Jago High         11.54      11.82Q -4.0
-  5 Fearon, Raje              13 Kingston College       11.41      12.01Q -5.0
-  6 Ottey, Rojay              14 Munro College          11.79      12.02Q -5.2
-  7 Brooks, Chavez            14 Wolmers' Boys          12.24      12.03Q -4.0
-  8 Thompson, Blake           14 Edwin Allen High       11.50      12.30Q -5.7
-  9 Grinnan, Romario          14 Old Harbour High       11.56      11.82Q -4.2
- 10 Clarke, Romario           14 Hydel High             11.91      11.99Q -4.0
- 11 Selvin, Seanie            14 Calabar High           12.09      12.08Q -5.0
- 12 Kelly, Karey              14 Wolmers' Boys          11.23      12.10Q -5.2
- 13 Hylton, Oshane            14 Green Island High      11.74      12.18Q -4.0
- 14 Alexander, Nicholas       13 Manchester High        11.76      12.26Q -4.0
- 15 Jackson-Chin, Roje        14 St. Jago High         11.62      12.27Q -3.0
- 16 Edwards, Rushane          13 Munro College          11.74      12.42Q -5.7
- 17 Daley, Travis             14 Herbert Morrison       12.40      12.06q -4.2
- 18 Ellis-Davis, Nicholas     14 Christiana             11.79      12.16q -5.2
- 19 Gayle, Darrenton          14 William Knibb High     11.84      12.20q -4.0
- 20 Francis, Nigel            14 Manchester High        11.66      12.27q -4.0
- 21 Patterson, Keneil         13 Jamaica College        11.34      12.31q -4.0
- 22 Mitchell, Micheal         14 Tivoli Gardens High    12.43      12.37q -4.0
- 23 Whyte, Travice            14 Charlemont High        12.24      12.38q -5.2
- 24 Samuels, Thor             14 St. Catherine High     11.80      12.40q -4.0
- 25 Campbell, Leonardo        14 Brown's Town High      12.46      12.42  -4.0
- 25 Morgan, Mario             14 Charlemont High        12.31      12.42  -3.0
- 27 Sparks, Ryon              13 Claude McKAY High      12.94      12.48  -3.0
- 28 Angus, Xavior             13 Dinthill               12.60      12.53  -5.2
- 29 Grey, Brandon             14 Cornwall College       12.14      12.53  -4.0
- 30 Doodnaughtsingh, Marco    14 Kemps Hill High        12.34      12.54  -4.2
- 31 White, Orlando            14 Albert Town High       11.84      12.58  -5.7
- 32 Robinson, Brandon         13 Camperdown High        12.51      12.58  -5.0
- 33 Thomas, Delano            13 Vauxhall High          12.91      12.59  -4.2
- 33 Shand, Nicholas           14 Old Harbour High       11.75      12.59  -5.0
- 35 Lewis, Odaine             14 Cornwall College       12.24      12.59  -5.2
- 36 Weatherly, Johan          14 Herbert Morrison       12.45      12.62  -5.7
- 37 Barrett, Bajio            14 Seaforth High          11.81      12.64  -5.0
- 38 Cunningham, Jovel         14 Maud McLEOD            11.93      12.67  -4.2
- 39 Cummings, Gilbert         14 Godfrey Stewart        12.31      12.72  -4.0
- 40 Powell, Kemo              14 Haile Selassie High    12.55      12.74  -4.0
- 41 Hewitt, Jordan            13 Campion College        11.98      12.76  -4.0
- 42 Williams, Juvaughn        14 Bridgeport             12.82      12.78  -4.0
- 43 Hunter, Fabian            14 Edith Dalton James     12.85      12.78  -3.0
- 44 Boyd, Rashidi             14 Kingston Technical     12.77      12.81  -5.0
- 45 Lawson, Desmond           14 St. James High         12.04      12.82  -5.7
- 46 Reid, Gayon               14 May Day High           12.72      12.84  -4.0
- 47 Anderson, Tajj            14 Titchfield High        12.87      12.88  -4.0
- 48 Tucker, Malik             14 Ardenne High           12.94      12.92  -4.0
- 49 Allen, Akeem              13 St. Elizabeth TE       12.25      12.95  -4.0
- 50 Ellis, Delano             14 Spot Valley High       12.24      13.01  -5.0
- 51 Bennett, Geraldane        13 Glenmuir High          12.02      13.07  -3.0
- 52 Chambers, Kevoyne         13 Mona High School       12.94      13.14  -4.2
- 53 Williams, Moore           14 Donald Quarrie         12.25      13.16  -5.7
- 54 Brown, Johnoy             14 Fair Prospect High     12.07      13.28  -4.0
- 55 Sewell, Aldane            14 Claude McKAY High      12.84      13.38  -5.7
- 56 Edwards, Rendol           14 Papine High School     12.65      13.75  -5.2
- -- Smith, Oshane             13 Petersfield High       11.85         FS  -3.0
- -- Morris, Lavon             14 Green Island High      12.44        DNS  -3.0
- -- Francis, Leroy            13 St. Elizabeth TE       11.91        DNS  -4.2
+ -- Francis, Leroy            13 St. Elizabeth TE       11.91        DNS
  
  Event 51  Girls 15-17 100 Meter Dash CLASS 2
 =========================================================================     
@@ -4340,63 +4156,7 @@ Heat  7 Preliminaries   Wind: -3.3
   5 Martin, Kadeen            17 Godfrey Stewart        12.94      13.39      
   6 Scott, Terry Ann          16 Ocho Rios High         12.15      13.57      
   7 Nation, Isha              17 Mile Gully High        13.44      13.95      
- -- Brown, Shantel            16 Spot Valley High       13.35        DNS      
-==============================================================================
- Sponsor: GRACE KENNEDY                                                       
- Meet Record: R 11.46  03/14/2008  JURA LEVY, VERE TECHNICAL                  
-    Name                     Age Team                    Seed    Prelims  Wind
-==============================================================================
-Preliminaries                                                                 
-  1 Copeland, Cardine         17 Wolmers Girls          12.21      12.30Q -2.3
-  2 Williams, Jodean          17 St. Mary High          12.35      12.45Q -2.6
-  3 Stephens, Kenesha         17 Herbert Morrison       12.51      12.46Q  2.9
-  4 Pennie, Chantal           17 Vere Technical         12.45      12.59Q -1.8
-  5 Bonner, Chanice           16 The Queen's School     11.97      12.62Q -3.3
-  6 Bartlet, Cherifa          17 St. Elizabeth TE       12.51      12.65Q -3.9
-  7 Stewart, Dejah            17 Edwin Allen High       12.60      12.68Q -3.3
-  8 Williams, Melissa         17 St. Jago High         11.98      12.41Q -2.3
-  9 Brooks-Gillings, Oshin    16 Convent OF Mercy       11.72      12.49Q -2.6
- 10 Dallas, Kedisha           16 Holmwood Technical     11.87      12.60Q -1.8
- 11 Green, Kimone             16 St. Elizabeth TE       12.10      12.64Q  2.9
- 12 Johnson, Channiel         16 William Knibb High     12.14      12.67Q -3.9
- 13 Pinnock, Paula            16 Edwin Allen High       12.21      12.86Q -3.3
- 14 Edwards, Mayah            16 St. Andrew High        12.53      12.93Q -3.3
- 15 McCarthy, Chrisdale       17 St. Jago High         12.74      12.66q -2.6
- 16 James, Samantha           17 Papine High School     12.74      12.72q -2.6
- 17 Williams, Sherrona        17 Green Island High      12.64      12.76q -3.9
- 18 Ewers, Donya              17 The Queen's School     12.70      12.83q -1.8
- 19 West, Anna-Kay            16 Manchester High        12.39      12.91q -2.6
- 20 Archibald, Ardine         16 Knox College           12.47      12.91q -3.3
- 21 Wood House, Yeneque       17 Old Harbour High       12.26      12.99q -1.8
- 22 Simmonds, Megan           17 St. Andrew High        12.67      13.01q -2.3
- 23 Brown, Sashel             17 Convent OF Mercy       12.19      13.07q -3.3
- 24 Sawyers, Shelly-Ann       16 Herbert Morrison       13.14      13.09q -1.8
- 25 Beckford, Crystal         16 Vere Technical         12.84      13.10   2.9
- 26 Mylera, Ashley            16 Green Island High      12.94      13.12  -3.3
- 27 Salmon, Antionette        17 Penwood High           12.99      13.13  -2.3
- 28 Smith, Sharelle           16 Immaculate Conce       12.96      13.18   2.9
- 29 Haughton, Nastacia        17 Guy's Hill High        12.95      13.20  -3.9
- 30 Sweeney, Kedeshia         16 Buff Bay High          12.74      13.20  -1.8
- 31 Haynes, Santana           16 William Knibb High     13.10      13.27  -2.6
- 32 Stone, Antoinette         17 St. Hugh's High        13.08      13.35  -1.8
- 33 Franklin, Rimona          17 Mannings High          12.74      13.36  -3.3
- 34 Williams, Chris-Ann       16 St. Hugh's High        13.12      13.39  -2.6
- 35 Martin, Kadeen            17 Godfrey Stewart        12.94      13.39  -3.3
- 36 Gordon, Deneal            16 Wolmers Girls          13.04      13.43  -3.3
- 37 Smythe, Chantal           17 Maud McLEOD            13.33      13.56  -3.9
- 38 Halliman, Chisan          17 Immaculate Conce       12.93      13.57  -3.9
- 39 Scott, Terry Ann          16 Ocho Rios High         12.15      13.57  -3.3
- 40 Thompson, Shinelle        16 Bridgeport             13.27      13.61   2.9
- 41 Ingram, Toni-Ann          16 Ardenne High           12.77      13.74  -3.3
- 42 Miller, Shantal           16 Porus High             12.48      13.81  -2.3
- 43 Murray, Natasacia         16 Donald Quarrie         13.16      13.93  -2.3
- 44 Ford, Monique             16 St. Hildas High        12.65      13.93   2.9
- 45 Nation, Isha              17 Mile Gully High        13.44      13.95  -3.3
- -- Porter, Chanice           17 Manchester High        12.21         FS   2.9
- -- Edwards, Nadine           17 Claude McKAY High      12.84        DNS  -2.3
- -- Erskine, Osheen           17 Holmwood Technical     12.19        DNS  -3.9
- -- Rowe, Samantha            17 Brown's Town High      13.14        DNS  -3.3
- -- Brown, Shantel            16 Spot Valley High       13.35        DNS  -3.3
+ -- Brown, Shantel            16 Spot Valley High       13.35        DNS
  
  
  
@@ -4493,89 +4253,7 @@ Heat  10 Preliminaries   Wind: -3.9
   5 Smith, Kimali             15 Penwood High           11.61      11.92      
   6 Jones, Dane               16 Glenmuir High          11.91      11.95      
   7 Dacres, Delroy            15 Mona High School       11.28      12.18      
-  8 Hurst, Michael            15 Charlemont High        11.88      12.29      
-==============================================================================
- Sponsor: CVM                                                                 
- Meet Record: R 10.34  2006        YOHAN BLAKE, ST. JAGO                      
-    Name                     Age Team                    Seed    Prelims  Wind
-==============================================================================
-Preliminaries                                                                 
-  1 Thompson, Tevin-Lloyd     16 Kingston College       10.74      11.03Q -2.2
-  2 Clarke, Edward            15 Jamaica College        10.84      11.19Q -3.9
-  3 Williams, Gawain          15 Herbert Morrison       10.65      11.19Q -3.6
-  4 Robinson, Raheem          15 Wolmers' Boys          10.64      11.26Q -3.5
-  5 Jackson, Deshawn          16 Jamaica College        10.60      11.28Q -3.3
-  6 Cunningham, Allayne       16 Guy's Hill High        10.92      11.35Q -6.6
-  7 Minzie, Jevaughn          16 Bog Walk               10.67      11.40Q -3.6
-  8 Henry, Antonio            16 Kingston College       10.76      11.40Q -4.8
-  9 Dixon, Tevin              16 Foga Road High         10.72      11.43Q -4.0
- 10 Daley, Denval             16 St. Elizabeth TE       10.70      11.63Q -4.4
- 11 Rattry, Kevaughn          15 St. Jago High         10.78      11.37Q -6.6
- 12 Vidal, Chadwayne          16 Green Island High      10.82      11.41Q -3.9
- 13 Morrison, Rohan           16 Muschett High          10.96      11.50Q -2.2
- 14 Williams, Zavian          15 Calabar High           10.94      11.51Q -4.8
- 15 Bennett, Kimarley         16 Bridgeport             11.04      11.58Q -3.6
- 16 Dennis, Davion            16 St. Elizabeth TE       11.37      11.58Q -3.3
- 17 Williams, Kemar           16 Calabar High           11.19      11.61Q -4.0
- 18 Sweeney, Beresford        15 Ardenne High           11.36      11.62Q -3.5
- 19 Gordon, Twain             16 Ardenne High           11.00      11.65Q -3.6
- 20 McKENZIE, Richard         16 St. Jago High         10.99      11.85Q -4.4
- 21 McKAY, Romario            16 Camperdown High        11.24      11.56q -3.9
- 22 Keene, Ezra               16 William Knibb High     11.06      11.61q -3.3
- 23 Bryan, Dillon             16 Wolmers' Boys          11.34      11.62q -3.3
- 24 Noble, Nerone             16 Camperdown High        11.64      11.62q -4.8
- 25 Gray, Javan               16 Muschett High          10.98      11.63  -4.0
- 26 Mollison, Tyrone          16 Munro College          11.10      11.66  -3.5
- 27 Myers, Kedron             16 St. James High         11.13      11.72  -3.6
- 28 Spence, Odane             15 Herbert Morrison       11.02      11.73  -3.5
- 29 Jennings, Jared           16 Mannings High          11.34      11.77  -3.6
- 30 Smith, George             16 Holmwood Technical     11.70      11.78  -3.6
- 31 Johnson, Romario          16 Clan Carthy High       11.80      11.78  -3.6
- 32 Garrick, Conrad           16 Ferncourt High         11.72      11.81  -3.6
- 33 Foster, Delano            16 Tivoli Gardens High    11.83      11.83  -4.8
- 33 Salmon, Ricardo           16 Greater Portmore       11.72      11.83  -3.5
- 35 Graham, Ojamu             16 Ocho Rios High         11.55      11.83  -6.6
- 35 Edwards, Romario          16 Papine High School     11.57      11.83  -3.9
- 37 Mitchell, Joel            16 Vauxhall High          11.20      11.84  -2.2
- 38 Brown, Shamar             15 Tacius Golding         11.75      11.86  -3.5
- 39 Cunningham, Amoneki       16 Rusea's High           11.29      11.87  -2.2
- 40 Rose, Fitzroy             15 Petersfield High       11.15      11.92  -3.6
- 41 Smith, Kimali             15 Penwood High           11.61      11.92  -3.9
- 42 Brown, Shavaun            16 Fair Prospect High     11.54      11.93  -4.8
- 43 Whitter, Courtney         16 Excelsior High         11.22      11.94  -6.6
- 44 Jones, Dane               16 Glenmuir High          11.91      11.95  -3.9
- 45 Palmer, Hordley           16 Titchfield High        11.64      11.96  -4.0
- 46 Davis, Anthonio           16 Mona High School       11.30      11.97  -3.6
- 47 Miller, Nicholas          16 McGRATH High           11.97      11.97  -4.0
- 48 Burrell, Keeno            16 Claude McKAY High      11.37      11.98  -3.5
- 49 Emanuel, Ackeeme Ragrime  16 Jose Marti             11.10      11.98  -3.3
- 50 Reid, Christopher         15 Lacovia High           11.64      11.99  -2.2
- 51 Thomas, Andell            16 Clan Carthy High       11.83      12.00  -2.2
- 52 Andrews, Kevarie          16 Green Island High      11.26      12.00  -4.8
- 53 Allen, Nathan             15 Claude McKAY High      11.48      12.00  -4.0
- 54 Allison, Shamari          16 St. Andrew College     11.21      12.02  -4.8
- 55 Billings, Cruise          15 Godfrey Stewart        11.28      12.03  -6.6
- 56 Atkinson, Alex            16 Petersfield High       11.81      12.04  -4.4
- 57 Richards, Kevin           16 Mile Gully High        11.96      12.11  -2.2
- 58 Blackstock, Ricardo       16 Tivoli Gardens High    11.73      12.11  -3.3
- 59 Green, Devonte            15 Brown's Town High      11.82      12.13  -4.0
- 60 Lewis, Jevaun             15 St. Catherine High     11.44      12.14  -3.6
- 61 Dacres, Delroy            15 Mona High School       11.28      12.18  -3.9
- 62 Morrison, Travis          16 Vauxhall High          11.62      12.27  -6.6
- 63 Hurst, Michael            15 Charlemont High        11.88      12.29  -3.9
- 64 Mitchell, Leone           16 Gaynstead              11.67      12.30  -4.4
- 65 Williams, Kenroy          15 Donald Quarrie         11.92      12.31  -4.8
- 66 Wilson, Shawn             15 Porus High             11.45      12.36  -4.4
- 67 Morrison, Cornel          15 Central High           12.15      12.38  -4.4
- 68 Malcolm, Daneal           16 Godfrey Stewart        11.75      12.41  -3.3
- 69 Rhoden, Raheed            16 Campion College        11.19      12.44  -4.4
- 70 Gordon, George            16 Cumberland High        11.80      12.48  -3.6
- 71 Brown, Mark-Allen         15 Jonathan Grant High    11.29      12.52  -4.0
- 72 Brown, Phillip            16 Holy Trinity High      11.88      12.61  -6.6
- 73 Elliot, D'Andre           16 Knockalva Technical    11.44      12.64  -3.6
- 74 Cole, Keron               15 Buff Bay High          11.91      12.82  -6.6
- 75 Pottinger, Romaine        16 Hopewell High          11.30      12.97  -4.4
- -- Williams, Ashony          15 Edith Dalton James     11.49        DNS  -2.2
+  8 Hurst, Michael            15 Charlemont High        11.88      12.29
  
  =====================================================================================
  Sponsor: SEPROD LIMITED                                                             
@@ -4652,29 +4330,7 @@ Finals
       9.70m  9.98m  9.46m                                                       
  16 Locke, Omesha             16 Mannings High         10.12m      9.98m        
       9.98m  ND  7.23m                                                          
-Preliminaries                                                                   
- 18 Powell, Sheena            17 Manchester High        9.97m                   
- 19 Harris, Venique           15 St. Andrew High        9.90m                   
- 20 Jones, Syriece            18 Titchfield High        9.76m                   
- 21 Moore, Conique            19 Titchfield High        9.66m                   
- 22 Gordon, Dafimer           16 Spanish Town High      9.53m                   
- 23 Nevers, Katherine         16 Spalding High          9.38m                   
- 24 Ricketts, Tsahai          16 Excelsior High         9.32m                   
- 25 Simpson, Decoda           16 St. Andrew High        9.27m                   
- 26 Mason, Georgia            14 Glenmuir High          9.15m                   
- 27 Francis, Sharnett         18 Claude McKAY High      9.04m                   
- 28 Swaby, Diandra            18 Dunoon                 9.00m                   
- 29 Anglin, Shaniel           18 Tacius Golding         8.73m                   
- 30 Reid, Rashell             17 Mannings High          8.65m                   
- 31 Anderson, Andre-Ann       15 The Queen's School     8.55m                   
- 32 Giscombe, Kevona          15 St. Hildas High        8.39m                   
- 33 Greenfield, Shanalee      16 Spot Valley High       7.99m                   
- 34 Jones, Kadeem             16 Hopewell High          7.95m                   
- 35 Richards, Yolande         19 Ocho Rios High         7.91m                   
- 36 Thomas, Racquel           18 Ardenne High           7.06m                   
- 37 Brown, Codian             16 St. Andrew College     6.91m                   
- -- Townsend, Shawna-Kay      16 Glengoffe High           ND                    
- -- Streete, Felicia          16 Grange Hill High        DNS                    
+
  
  Event 41  Girls 17-19 100 Meter Dash CLASS 1
 =========================================================================     
@@ -4854,11 +4510,7 @@ Finals
  10 Allen, Shenley            14 Munro College          1.60m      1.60m        
  10 Boulin, Roderick          14 Munro College          1.60m      1.60m        
  15 Dawkins, Rashaun          13 St. Jago High         1.60m      1.55m        
-Preliminaries                                                                   
- 16 Pollack, Sean             14 Knox College           1.55m                   
- 17 Scott, Jordan             14 Campion College        1.50m                   
- 18 Morgan, Joshua            13 Hydel High             1.45m                   
- -- Brown, Jovoni             14 Charlemont High          NH                    
+
  
  Event 11  Boys 16-19 Discus Throw CLASS 1 BOYS
 ================================================================================
@@ -4895,16 +4547,7 @@ Finals
       FOUL  FOUL  FOUL                                                          
  -- Tucker, Fabeon            17 Edwin Allen High      38.99m       FOUL        
       FOUL  FOUL  FOUL                                                          
-Preliminaries                                                                   
- 15 Davidson, Mark            17 Bridgeport            35.90m                   
- 16 Morgan, Seldwyn           17 Claude McKAY High     35.57m                   
- 17 Forbes, Oshane            18 Balaclava High        31.72m                   
- 18 Bloise, Alphanso          19 Holmwood Technical    30.72m                   
- 19 King, Damion              19 Oberlin High          28.11m                   
- 20 McKENZIE, Ricardo         19 Glenmuir High         26.82m                   
- -- Samuels, Demar            17 Godfrey Stewart          ND                    
- -- Powell, Orrin             19 Vere Technical          DNS                    
- -- Graham, Jeffery           17 Petersfield High        DNS                    
+
  
  Event 64  Girls 13-15 800 Meter Run CLASS 3
 ============================================================================
@@ -4937,18 +4580,7 @@ Semi-Finals
  22 Cunningham, Peta-Gay      15 Mannings High        2:26.82    2:45.04   1
  23 Golding, Jody-Ann         15 Bellefield           2:27.33    2:45.38   2
  24 Richards, Nelecia         15 Titchfield High      2:29.20    2:56.62   1
-Preliminaries                                                               
- 25 Miller, Gabrielle         14 Convent OF Mercy     2:29.32               
- 26 Williams, Santina         14 Holy Childhood       2:36.61               
- 27 Blackwood, Abbygail       15 DeCARTERET College   2:37.50               
- 28 Morris, Samantha          14 Maud McLEOD          2:39.14               
- 29 Reid, Atasha              14 Mile Gully High      2:40.65               
- 30 Logan, Tashna  T          15 Cross Keys High      2:43.23               
- 31 Hall, Lisa                14 Holy Childhood       2:44.37               
- 32 Blackwood, Roshanda       14 Balaclava High       2:44.91               
- 33 Lovelace, Jamelia         15 Dinthill             2:45.47               
- 34 Plummer, Shaion           14 Buff Bay High        2:51.42               
- -- Grant, Andrea             15 Glengoffe High          DNS                
+
  
  Event 26  Boys 10-14 800 Meter Run CLASS 3 BOYS
 ============================================================================                
@@ -4982,22 +4614,7 @@ Semi-Finals
  22 Campbell, Gavin           14 Ardenne High         2:13.51    2:16.90   1                
  23 Hylton, Kerron            14 St. Jago High       2:09.35    2:17.10   1                
  -- Bennett, Andre            14 Cornwall College     2:11.00         DQ   3 RULE 163.3 A &B
-Preliminaries                                                                               
- 25 Stewart, Ackeem           14 Happy Grove High     2:13.78                               
- 26 Dunkley, Kosiani          14 Meadowbrook High     2:16.00                               
- 27 Cunningham, Denzil        14 Ferncourt High       2:16.24                               
- 28 Spencer, Tivan            14 Bellefield           2:16.41                               
- 29 Jackson, Kevon            14 Charlemont High      2:16.61                               
- 30 Garrett, Miguel           14 Godfrey Stewart      2:17.42                               
- 31 Towsend, David            14 Greater Portmore     2:17.94                               
- 32 Edwards, Nicoli           14 Bridgeport           2:17.95                               
- 33 Samuels, Daniel           14 Central High         2:18.85                               
- 34 Dennis, Handel            14 Edith Dalton James   2:19.35                               
- 35 Graham, Orlando           14 Tacius Golding       2:20.87                               
- 36 Brown, Andre              14 Muschett High        2:22.44                               
- 37 Gray, Uylett              14 Jonathan Grant High  2:24.88                               
- 38 Wellington, Devar         14 Bog Walk             2:31.74                               
- -- Lewis, Rajiv              13 Munro College           DNS          
+
  
  Event 54  Girls 15-17 800 Meter Run CLASS 2
 ============================================================================
@@ -5022,21 +4639,7 @@ Semi-Finals
  14 Hamilton, Tasheka         17 Guy's Hill High      2:22.66    2:29.88   1
  15 McPherson, Monique        16 Central High         2:21.26    2:32.52   2
  16 Edwards, Shevanice        17 Tacius Golding       2:22.52    2:35.57   2
-Preliminaries                                                               
- 17 Williams, Howadeen        16 Ferncourt High       2:24.51               
- 18 Ricketts, Racquel         17 Manchester High      2:25.83               
- 19 Lawes, Kadejah  Allia     16 Jose Marti           2:26.05               
- 20 Campbell, Sashauna        16 Tacius Golding       2:26.35               
- 21 Canningan, Shanice        16 Rusea's High         2:27.72               
- 22 Taylor, Kemarlie          16 May Day High         2:27.72               
- 23 Walker, Chevelle          16 Holy Trinity High    2:41.61               
- 24 Banks, Kbalifa            16 Charlemont High      2:48.66               
- 25 Laird, Sandreika          17 Lewisville High      2:50.75               
- -- Jones, Renee              16 Gaynstead               DNS                
- -- Brown, Navika             16 Claude McKAY High       DNS                
- -- Henry, Keyandra           17 St. Jago High          DNS                
- -- Lee, Rosheika             16 Kellits High            DNS                
- -- Richards, Sanique         16 Glengoffe High          DNS                
+
  
  Event 15  Boys 14-16 800 Meter Run CLASS 2 BOYS
 ============================================================================
