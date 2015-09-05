@@ -1,14 +1,16 @@
 package champs
 import PartialFunction._
+import scala.collection.mutable
 
 /**
  * Created by dwight on 08/08/15.
  */
-class Event(eventName:String, eventGender:String, eventClass:String, eventNumber:String) {
+class Event(val eventName:String, eventGender:String, eventClass:String, eventNumber:String) {
 
   var round  =""
   var eventCategory:String = Event.getCategory(eventName)
   var eventType = Event.getEventType(eventName)
+  val placings: mutable.MutableList[mutable.Map[String,String]] = mutable.MutableList();
 
   override def toString(): String ="("+ round + "," + eventGender +","+ eventClass +","+ eventName + "," + eventCategory + "," + eventType +")";
 }

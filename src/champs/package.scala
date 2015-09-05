@@ -174,4 +174,11 @@ package object champs {
       "York Castle High" -> List("YorkCastle High", "York Castle", "York Castle High School")
     )
 
+  val SCHOOL_ALIASES = scala.collection.mutable.Map[String,String]()
+  for ( ( schoolName, aliases ) <- SCHOOLS ) {
+    SCHOOL_ALIASES(schoolName) = schoolName
+    for( alias <- aliases) SCHOOL_ALIASES(alias) = schoolName
+  }
+
+
 }
